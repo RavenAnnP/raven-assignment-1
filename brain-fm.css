@@ -8,11 +8,18 @@ input[type='button'] {
     padding: 7px 18px;
     font-weight: bold;
     border: 0px;
-    border-radius: 15px;
+    border-radius: 50px;
     background: linear-gradient(45deg, #ea9e3d, #ee7d38)
     
 }
-
+button {
+    padding: 7px 18px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 50px;
+    background: linear-gradient(45deg, #ea9e3d, #ee7d38)
+    
+}
 
 a:visited {
     color: white
@@ -27,6 +34,7 @@ a:hover {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
 }
 
 
